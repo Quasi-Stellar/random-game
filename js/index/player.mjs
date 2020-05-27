@@ -12,9 +12,9 @@ class Player extends Entity {
     this.running = false;
     this.leftAnimation = new Animation(
       new Frame(0.2, "char-left-walk1.png", "char-left-still.png", "char-down-still1.png"),
-      new Frame(0.2, "char-left-still.png", "char-down-still1.png"),
+      new Frame(0.2, "char-left-still1.png", "char-down-still1.png"),
       new Frame(0.2, "char-left-walk2.png", "char-left-still.png", "char-down-still1.png"),
-      new Frame(0.2, "char-left-still.png", "char-down-still1.png")
+      new Frame(0.2, "char-left-still2.png", "char-down-still1.png")
     );
     this.upAnimation = new Animation(
       new Frame(0.2, "char-up-walk1.png", "char-up-still1.png", "char-down-still1.png"),
@@ -24,9 +24,9 @@ class Player extends Entity {
     );
     this.rightAnimation = new Animation(
       new Frame(0.2, "char-right-walk1.png", "char-right-still.png", "char-down-still1.png"),
-      new Frame(0.2, "char-right-still.png", "char-down-still1.png"),
+      new Frame(0.2, "char-right-still1.png", "char-down-still1.png"),
       new Frame(0.2, "char-right-walk2.png", "char-right-still.png", "char-down-still1.png"),
-      new Frame(0.2, "char-right-still.png", "char-down-still1.png")
+      new Frame(0.2, "char-right-still2.png", "char-down-still1.png")
     );
     this.downAnimation = new Animation(
       new Frame(0.2, "char-down-walk1.png", "char-down-still1.png"),
