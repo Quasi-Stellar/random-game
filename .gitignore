@@ -4,3 +4,17 @@
 /pyvenv.cfg
 /share/
 /server/__pycache__
+data/img/28px/char-down-still1.png
+data/img/28px/char-down-still2.png
+data/img/28px/char-down-walk1.png
+data/img/28px/char-down-walk2.png
+data/img/28px/char-left-still.png
+data/img/28px/char-left-walk1.png
+data/img/28px/char-left-walk2.png
+data/img/28px/char-right-still.png
+data/img/28px/char-right-walk1.png
+data/img/28px/char-right-walk2.png
+data/img/28px/char-up-still1.png
+data/img/28px/char-up-still2.png
+data/img/28px/char-up-walk1.png
+data/img/28px/char-up-walk2.png
